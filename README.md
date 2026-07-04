@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on
-→ Extending DSAQuest and learning Backend Development with Node.js & Express
+→ learning Backend Development with Node.js & Express
 
 👯 I’m looking to collaborate on
 → Web Development and Full Stack Projects
