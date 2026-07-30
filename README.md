@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 I'm currently working on
-→ AI-powered customer support chatbot using RAG — businesses upload docs, customers get accurate answers from actual documentation
+→ Learning Next.js + TypeScript, then building an AI-powered customer support chatbot using RAG — businesses upload docs, customers get accurate answers from actual documentation
 
 👯 I'm looking to collaborate on
 → Production-ready web apps and AI-powered products
