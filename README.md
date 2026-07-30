@@ -1,23 +1,16 @@
 # 💫 About Me:
 
-🔭 I’m currently working on
-→ learning Backend Development with Node.js & Express
+🔭 I'm currently working on
+→ AI-powered customer support chatbot using RAG — businesses upload docs, customers get accurate answers from actual documentation
 
-👯 I’m looking to collaborate on
-→ Web Development and Full Stack Projects
-
-🤝 I’m looking for help with
-→ Backend Development, System Design and Building Scalable Applications
-
-🌱 I’m currently learning
-→ Backend Development • Node.js • Express • MongoDB
+👯 I'm looking to collaborate on
+→ Production-ready web apps and AI-powered products
 
 💬 Ask me about
-→ React.js, JavaScript, Frontend Development and DSA
+→ React.js, Node.js, Express.js, MongoDB, REST APIs, LLM Integration, DSA
 
 ⚡ Fun fact
-→ I enjoy turning ideas into products and learning by building
-
+→ I build and ship — both my projects are live in production
 
 
 ## 🌐 Socials:
