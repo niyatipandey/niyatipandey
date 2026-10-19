@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 I'm currently working on
-→ Learning Next.js + TypeScript, then building an AI-powered customer support chatbot using RAG — businesses upload docs, customers get accurate answers from actual documentation
+→ Building GitReal, a developer intelligence platform that analyzes GitHub repositories to identify technology usage with code-level evidence, alongside an AI-powered resume skill extraction feature that turns uploaded PDFs into structured, categorized technical skills.
 
 👯 I'm looking to collaborate on
 → Production-ready web apps and AI-powered products
